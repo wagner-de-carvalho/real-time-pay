@@ -1,4 +1,4 @@
-# REal Time Pay
+# Real Time Pay
 
 
 ### Dependencies
@@ -9,3 +9,7 @@
 - flask shell
 - db.create_all()
 - exit()
+
+### Tests
+- pytest file.py -v = executes test file.
+
